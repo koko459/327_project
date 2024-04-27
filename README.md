@@ -20,10 +20,11 @@ Software features & implementation:
 
 Diagrams:
 This includes how we had originally planned to implement the GPS data using a leader-follower system between two MSP430s to share the data. 
-<img width="613" alt="Screenshot 2024-04-26 at 9 29 44 PM" src="https://github.com/koko459/327_p/assets/70616464/b09b8e38-be10-4773-9670-fa76b1583b27">
+<img width="622" alt="Screenshot 2024-04-26 at 9 28 48 PM" src="https://github.com/koko459/327_project/assets/70616464/5138f2cb-dd77-4bfb-9e53-71a92162ae43">
+
+<img width="630" alt="Screenshot 2024-04-26 at 10 22 01 PM" src="https://github.com/koko459/327_project/assets/70616464/3568d02b-8b98-4f49-b86c-45f0e0150c25">
 
 
-<img width="609" alt="Screenshot 2024-04-26 at 9 30 26 PM" src="https://github.com/koko459/327_p/assets/70616464/a7d74529-8e1a-4632-9ca3-ba9a2ff4d603">
   
   Below is a link to our demo video as well as a demo of what we expected the final product to be.
   Link: https://rice.box.com/s/lwhm5ou6oyjsq2amn85zxqehftekbmmu
